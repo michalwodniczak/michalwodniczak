@@ -1,7 +1,7 @@
 ### Hi 👋 My name is Michał and I'm a Frontend Developer from Poland
 
-<div align="center"
-<img src="./author.png" alt="Michał Wodniczak" width="300"/>
+<div align="center">
+  <img src="./author.png" alt="Michał Wodniczak" width="300"/>
 </div>
 
 ## About me
