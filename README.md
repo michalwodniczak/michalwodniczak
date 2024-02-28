@@ -43,3 +43,12 @@ Besides coding, I'm also working on improving my English skills because I unders
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="43" alt="vscode logo"  />
 </div>
 
+## I want to learn next
+<ul>
+  <li>Gatsby</li>
+  <li>React Context</li>
+  <li>Node.js</li>
+  <li>TypeScript</li>
+  <li>Unit testing</li>
+  <li>TanStack Query</li>
+</ul>
