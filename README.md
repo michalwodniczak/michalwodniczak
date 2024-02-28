@@ -1,6 +1,8 @@
 ### Hi 👋 My name is Michał and I'm a Frontend Developer from Poland
 
-<img src="./author.png" alt="Michał Wodniczak" width="300" align="center"/>
+<div align="center"
+<img src="./author.png" alt="Michał Wodniczak" width="300"/>
+</div>
 
 ## About me
 Currently, I work as a CNC operator and programmer, but I'm equally passionate about the world of front-end development. I'm currently seeking my first job as a front-end developer. I completed a course at Youcode, where I had the opportunity to collaborate on a group project at the end. During the course, I learned various skills, including:
